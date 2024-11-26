@@ -1,0 +1,16 @@
+{
+  "name": "oz-database-backend",
+  "version": "1.0.0",
+  "description": "```bash\r # npm 초기 세팅\r npm init -y",
+  "main": "src/index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^5.22.0"
+  }
+}
